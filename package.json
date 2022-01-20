@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "private-package": "github:joepurdy/private-npm-package"
+  }
+}
