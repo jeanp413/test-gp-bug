@@ -3,4 +3,4 @@ tasks:
   - command: npm ci
 vscode:
   extensions:
-    - vscodevim.vim@1.21.10
+    - vscodevim.vim
