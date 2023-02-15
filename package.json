@@ -1,5 +1,15 @@
 {
-  "devDependencies": {
-    "private-package": "github:joepurdy/private-npm-package"
+  "type": "module",
+  "engineStrict": true,
+  "engines": {
+    "node": ">=16",
+    "npm": ">=8"
+  },
+  "dependencies": {
+    "@gitpod/public-api": "main",
+    "@grpc/grpc-js": "^1.8.8",
+    "long":"^5.2.1",
+    "protobufjs": "^7.2.2",
+    "@bufbuild/connect-node": "^0.7.0"
   }
 }
